@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pudiobook</string>
+    <string name="nav_home">خانه</string>
+    <string name="nav_library">کتابخانه</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="language_title">زبان</string>
+    <string name="language_english">English</string>
+    <string name="language_persian">فارسی</string>
+</resources>

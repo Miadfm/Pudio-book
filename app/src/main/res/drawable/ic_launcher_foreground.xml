@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Simple Minimal White Microphone Capsule -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 45,39 C 45,34.03 49.03,30 54,30 C 58.97,30 63,34.03 63,39 L 63,52 C 63,56.97 58.97,61 54,61 C 49.03,61 45,56.97 45,52 Z" />
+
+    <!-- U-shaped Cradle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 38,48 L 38,53 C 38,61.84 45.16,69 54,69 C 62.84,69 70,61.84 70,53 L 70,48" />
+
+    <!-- Vertical Stem -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,69 L 54,78" />
+
+    <!-- Horizontal Base Stand -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 42,78 L 66,78" />
+
+</vector>
+
+

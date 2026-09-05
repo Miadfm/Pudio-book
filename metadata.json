@@ -1,0 +1,7 @@
+{
+  "name": "Pudiobook",
+  "description": "Pudiobook - Your Private Audiobook & Podcast App with offline playback and encrypted storage vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
